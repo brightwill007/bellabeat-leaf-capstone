@@ -1,4 +1,4 @@
-# bellabeat-leaf-capstone
+# Bright Erharuyi’s Data Projects
 Capstone project: Fitbit data analysis for Bellabeat Leaf.
 Data: Fitbit Fitness Tracker Data (CC0), via Kaggle
 Analysis: R / Tidyverse (see `analysis.R`)
